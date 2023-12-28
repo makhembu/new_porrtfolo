@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: "https://dev-brian.vercel.app/",
     description:
       "Full Stack Web Developer with a focus on WordPress and scalable applications",
-    url: "https://dev-brian.vercel.app/",
+    url: "Brian Makhembu",
     siteName: "Brian Makhembu",
     images: [
       {
